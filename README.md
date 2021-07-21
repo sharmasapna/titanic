@@ -1,13 +1,14 @@
 This repository contains the python code used for predicting the survivors.   
 
-**This is my best prediction which got a  Kaggle score of 0.78708 till now!**   
+
 
 **titanic_EDA_18june2021.ipynb**.  
 Highlights:   
 This notebook contains EDA   
 
 
-**titanic_prediction_with_score_0.78708_21july2021.ipynb**
+**titanic_prediction_with_score_0.78708_21july2021.ipynb**   
+**This is my best prediction which got a  Kaggle score of 0.78708 till now!**   
 Highlights:
 1. Family feature created by summing Parch, SibSp
 2. Isalone feature created where Family = 0
