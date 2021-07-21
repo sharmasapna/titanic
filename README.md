@@ -8,7 +8,7 @@ This notebook contains EDA
 
 
 **titanic_prediction_with_score_0.78708_21july2021.ipynb**   
-**This is my best prediction which got a  Kaggle score of 0.78708 till now!**   
+**This is my best Titanic prediction with score of 78.708% till now!**   
 Highlights:
 1. Family feature created by summing Parch, SibSp
 2. Isalone feature created where Family = 0
