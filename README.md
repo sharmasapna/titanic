@@ -6,7 +6,7 @@ This repository contains the python code used for predicting the survivors.
 Highlights:   
 This notebook contains EDA   
 **titanic_prediction_score_79.186_28july2021.ipynb**
-**Improvement in score to 0.79186**
+**Improvement in score to 0.79186**   
 Highlights:
 1. Family feature created by summing Parch, SibSp
 2. Isalone,Small_family,Large_family features created where Family 
